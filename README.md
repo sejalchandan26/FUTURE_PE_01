@@ -1,4 +1,5 @@
 # FUTURE_PE_01
+# AI Website Copy Generator for Local Businesses
 ## 📌 Project Overview
 
 This project focuses on building a structured AI prompt system to generate high-quality, conversion-focused website copy and design content for local businesses. The goal is to demonstrate how prompt engineering can be used to create professional website content efficiently while maintaining a consistent brand voice.
@@ -37,7 +38,7 @@ This project focuses on building a structured AI prompt system to generate high-
 * Warm
 * Inviting
 * Conversion-focused
-
+-----
 ### Constraints
 
 * Keep the language simple and engaging.
@@ -46,31 +47,8 @@ This project focuses on building a structured AI prompt system to generate high-
 
 ---
 
-# 📄 Generated Website Content
 
-## 🏠 Homepage
 
-### Headline
-
-**Welcome to Golden Hour Cafe—Your Cozy Neighborhood Escape.**
-
-### Value Proposition
-
-We believe every day deserves a perfect start. At Golden Hour Cafe, we combine freshly roasted artisanal beans with a warm, inviting atmosphere designed for you to relax, recharge, and savor every sip.
-
----
-
-## ☕ Services
-
-### Specialty Coffee
-
-**Description**
-Expertly crafted espresso, pour-overs, and seasonal lattes brewed with locally sourced beans.
-
-**Why Choose Us**
-We use small-batch roasted beans to ensure the freshest flavor in every cup.
-
----
 
 ### 🍳 Delicious Breakfast
 
@@ -80,27 +58,6 @@ Freshly prepared breakfast platters, healthy bowls, and warm pastries served all
 **Why Choose Us**
 Everything is made from scratch using farm-fresh ingredients to give you the perfect start to your day.
 
----
-
-### 🎉 Private Events
-
-**Description**
-We host small gatherings, workshops, and cozy birthday celebrations.
-
-**Why Choose Us**
-Our warm, golden-hued atmosphere creates the perfect backdrop for memorable moments.
-
----
-
-# 📣 Call-to-Action
-
-### Table Booking
-
-> Ready to make memories? Reserve your table at Golden Hour Cafe today and let us host your perfect gathering!
-
-### Event Inquiries
-
-> Planning a special occasion? Contact our team at Golden Hour Cafe—we'd love to help bring your event to life!
 
 ---
 
@@ -111,7 +68,10 @@ Our warm, golden-hued atmosphere creates the perfect backdrop for memorable mome
 * **Documentation**: Markdown 📝
 
 ---
-
+## Project Structure
+- Prompt 1 – Homepage
+- Prompt 2 – About Us & Services
+- Prompt 3 – SEO Optimization
 
 # 🚀 Key Features
 
