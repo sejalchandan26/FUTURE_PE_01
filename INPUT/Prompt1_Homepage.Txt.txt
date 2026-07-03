@@ -1,0 +1,7 @@
+# Prompt 1 - Homepage Website Copy
+
+## Objective
+Generate homepage copy for a local cafe website.
+
+## AI Prompt
+
