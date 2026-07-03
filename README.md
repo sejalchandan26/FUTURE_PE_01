@@ -11,7 +11,7 @@ This project focuses on building a structured AI prompt system to generate high-
 
 ## 🌐 Live Website
 
-**Website Preview:** https://cafegoldenhour.lovable.app/
+**Website Preview:** https://community-coffee-corner.lovable.app/
 
 ---
 
