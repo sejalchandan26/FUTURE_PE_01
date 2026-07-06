@@ -93,7 +93,27 @@ Everything is made from scratch using farm-fresh ingredients to give you the per
 * Building AI-assisted marketing content
 
 ---
+# 📁 Repository Structure
 
+## 🧠 Project Overview
+This repository contains AI prompt inputs and generated outputs for a structured UGC/website copy project.
+
+---
+
+## 📂 Folder Structure
+FUTURE_PE_01/
+
+INPUT/
+- Prompt1_Homepage.txt
+- Prompt2_About_Services.txt
+- Prompt3_SEO_Optimization.txt
+
+OUTPUT/
+- Output1_Homepage.txt
+- Output2_About_Services.txt
+- Output3_SEO_Optimization.txt
+
+README.md
 # 👨‍💻 Author
 
 **Sejal Chandan**
