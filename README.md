@@ -68,10 +68,7 @@ Everything is made from scratch using farm-fresh ingredients to give you the per
 * **Documentation**: Markdown 📝
 
 ---
-## Project Structure
-- Prompt 1 – Homepage
-- Prompt 2 – About Us & Services
-- Prompt 3 – SEO Optimization
+
 
 # 🚀 Key Features
 
