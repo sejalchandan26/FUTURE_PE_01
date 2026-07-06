@@ -93,7 +93,7 @@ Everything is made from scratch using farm-fresh ingredients to give you the per
 # 📁 Repository Structure
 
 ## 🧠 Project Overview
-This repository contains AI prompt inputs and generated outputs for a structured UGC/website copy project.
+This repository contains AI prompt inputs and generated outputs for a structured website copy project.
 
 ---
 
